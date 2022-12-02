@@ -26,11 +26,11 @@
 }
 
 #cabecalho {
-    background-color: var(--cor-1);
     margin-bottom: 30px;
     position: fixed;
     width: 100%;
     z-index: 1;
+    background-color: var(--cor-2);
 }
 
 #cabecalho .container {
